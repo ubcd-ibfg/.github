@@ -32,11 +32,7 @@ IBFG operates its own HPC infrastructure, managed by the UBCD:
 - **High-performance servers** ranging from 88 cores / 384 GB RAM to configurations with 400+ cores and 1.5 TB RAM
 - **Storage** exceeding 100 TB
 - **Virtualization-based environment** — individual virtual machines are provisioned to each research group, adapted to the needs of each project
-
-We also advise on and facilitate access to external HPC systems:
-
-- [SCAYLE](https://www.scayle.es/) — Supercomputación Castilla y León
-- DRAGO computing system
+- **Computing server** - A dedicated computing server for CPU-intensive jobs
 
 All code and resources developed by the unit are shared publicly through this GitHub organization. We are also members of the CSIC Computational Biology and Bioinformatics Network (**BCB**).
 
