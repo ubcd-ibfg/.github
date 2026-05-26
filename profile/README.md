@@ -56,7 +56,7 @@ We are currently building an **online resource hub** with tutorials and guides c
 
 Questions, collaboration requests, or support inquiries:
 
-📧 **[ubcd@ibfg.csic.es](mailto:ubcd_ibfg@csic.es)**
+📧 **[ubcd_ibfg@usal.es](mailto:ubcd_ibfg@usal.es)**
 
 ---
 
