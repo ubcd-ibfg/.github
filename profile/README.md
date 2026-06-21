@@ -11,7 +11,7 @@ The **Bioinformatics and Data Science Unit (UBCD)** is a research support struct
 
 ## Advisory & Collaboration
 
-We serve as an internal consulting service for all research groups at IBFG. Since October 2025 we have handled **57 requests** from groups across a wide range of disciplines — with over two-thirds successfully completed and the remainder actively in progress.
+We serve as an internal consulting service for all research groups at IBFG.
 
 Areas covered include:
 
